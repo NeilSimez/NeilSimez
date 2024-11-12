@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Daniel! 👋
 
 Actualmente estoy estudiando para ser un desarrollador web apasionado por crear experiencias interactivas y visualmente atractivas. Me encanta aprender nuevas tecnologías y aplicar buenas prácticas de desarrollo. Aquí encontrarás algunos de mis proyectos y contribuciones. 🚀
 
