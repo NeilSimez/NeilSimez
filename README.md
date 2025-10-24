@@ -1,11 +1,12 @@
 # ¡Hola, soy Daniel! 👋
 
-Actualmente estoy estudiando para ser un desarrollador web apasionado por crear experiencias interactivas y visualmente atractivas. Me encanta aprender nuevas tecnologías y aplicar buenas prácticas de desarrollo. Aquí encontrarás algunos de mis proyectos y contribuciones. 🚀
+Soy un desarrollador de react.  Me encanta aprender nuevas tecnologías y aplicar buenas prácticas de desarrollo. Aquí encontrarás algunos de mis proyectos y contribuciones. 🚀
 
 ## Tecnologías que uso 🌐
 
 #### Frontend:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
+- - ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) TypeScript
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) React
 - ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) Tailwind CSS
 - ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white) Vite
