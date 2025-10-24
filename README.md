@@ -18,8 +18,6 @@ Soy un desarrollador de react.  Me encanta aprender nuevas tecnologías y aplica
 
 ## Sobre mí 📋
 
-- 🌱 Actualmente estoy aprendiendo **Node.js** y **GraphQL**.
-
 - 📫 ¿Cómo contactarme? Puedes enviarme un correo a [neilsimez@gmail.com](mailto:tuemail@example.com).
 - 📌 Puedes ver mis proyectos en mi perfil de GitHub.
 
@@ -28,7 +26,7 @@ Soy un desarrollador de react.  Me encanta aprender nuevas tecnologías y aplica
 Aquí te dejo algunos de los proyectos en los que he trabajado:
 
 - **[Proyecto 1](https://github.com/NeilSimez/Todo-List)** - Una aplicación web construida con React, TailwindCSS y TypeScript.
-- **[Proyecto 2](enlace_del_proyecto_2)** - Una página personal utilizando HTML, CSS y Vite.
+- **[Proyecto 2](https://github.com/NeilSimez/Giphy-app)** - Una página personal utilizando HTML, CSS y Vite.
 
 
 
