@@ -1,7 +1,5 @@
 <div align="center">
-  <h1>¡Hola, soy Daniel! 👋</h1>
-  <p><b>Desarrollador Web Full Stack</b></p>
-  <p>Enfocado en construir aplicaciones web eficientes, escalables y con interfaces limpias. Me apasiona el diseño de APIs robustas, la automatización y las buenas prácticas de desarrollo.</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=180&lines=Daniel's+Profile;Building+efficient+and+scalable+Full+Stack+applications;Specializing+in+React%2C+FastAPI%2C+Docker;Passionate+about+automation+and+best+practices;Welcome!+✨" alt="Daniel's animated typing header" />
 </div>
 
 <br>
