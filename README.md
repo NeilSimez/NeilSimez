@@ -69,5 +69,5 @@
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZhcGoxdWRlcDRyZGducGQ1amVjMGRnazJwbGR6ZGZuajU0d2lkbCZlcD12MV_pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/9lyuDkgZJ4OBO/giphy.gif" alt="bye gif" width="200" />
-  <p>bye?</p>
+  <p><b>bye<b/></p>
 </div>
